@@ -28,7 +28,7 @@ body, html {
     width: 20vw;
     border-radius: 80%;
     border: 0.3vw solid  var(--text-color);
-
+    background-color: #aabca9;
 }
 
 .h1{
